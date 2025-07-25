@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+:root{
+    --color-primary: #007BFF;      
+    --color-secondary: #2C2C2C;     
+    --color-accent: #00E5FF;        
+    --color-complement: #FF6B6B;  
+    --color-light: #F4F6FA;         
+    --color-dark: #1A1A1A;          
+    --font-tile:Open Sans;
+    --font-text:Exo 2;
+    
+
+
+
+
+
+
+
+}
